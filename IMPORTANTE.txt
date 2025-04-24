@@ -1,0 +1,7 @@
+Óscar, en GitHub la página no me abre, yo la subí en su momento a otra aplicación (Netlify)
+la cúal no me dio ningún fallo al realizar la subida.
+
+Entonces a la hora de la entrega que pides que sea un repositorio GitHub con todos los archivos,
+no creo que la página web vaya a abrirse desde el contenido del repositorio, igualmente en el PDF
+del informe final tengo los enlaces a la página correcta y los diversos pasos y razonamientos que
+he seguido.
