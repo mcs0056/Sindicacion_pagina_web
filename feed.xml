@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>SevillaFC</title>
+        <link>https://websevilla.netlify.app/</link>
+        <description>En este canal vamos a enseñar la plantilla del equipo y la tienda actual.</description>
+        <item>
+            <title>Plantilla</title>
+            <link>https://websevilla.netlify.app/gallery.html</link>
+            <description>Se ve la plantilla del Sevilla por jugadores, dorsales y posición de cada uno.</description>
+        </item>
+        <item>
+            <title>Tienda</title>
+            <link>https://websevilla.netlify.app/services.html</link>
+            <description>Se aprecia la tienda del equipo con las equipaciones de la temporada.</description>
+        </item>
+    </channel>
+</rss>
